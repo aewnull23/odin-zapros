@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mhc-tour-sea-1",
+    "name": "Каспий за 3 дня: Махачкала и берег",
+    "city": "Махачкала",
+    "duration_days": 3,
+    "price_total": 14500,
+    "rating": 4.6,
+    "photo_url": "https://picsum.photos/seed/mhc-t1/800/500",
+    "description": "Прогулка по набережной, рынок и пляжный день на Каспии.",
+    "includes": ["Гид", "Трансфер", "2 ночи в отеле 3*"],
+    "tags": ["sea", "excursion", "family"]
+  },
+  {
+    "id": "mhc-tour-mountain-1",
+    "name": "Дагестан: горы и султан-султан",
+    "city": "Махачкала",
+    "duration_days": 4,
+    "price_total": 22000,
+    "rating": 4.8,
+    "photo_url": "https://picsum.photos/seed/mhc-t2/800/500",
+    "description": "Экскурсия в горы, смотровые площадки и национальная кухня.",
+    "includes": ["Гид", "Автобус", "3 ночи"],
+    "tags": ["mountain", "excursion"]
+  },
+  {
+    "id": "spb-tour-1",
+    "name": "Питер за выходные: Невский и музеи",
+    "city": "Санкт-Петербург",
+    "duration_days": 2,
+    "price_total": 9800,
+    "rating": 4.5,
+    "photo_url": "https://picsum.photos/seed/spb-t1/800/500",
+    "description": "Два дня в центре: прогулки по Невскому и экскурсия в Эрмитаж.",
+    "includes": ["Экскурсии", "Отель 3*", "Завтраки"],
+    "tags": ["nevsky", "center", "excursion"]
+  },
+  {
+    "id": "sochi-tour-1",
+    "name": "Сочи: море и Олимпийский парк",
+    "city": "Сочи",
+    "duration_days": 3,
+    "price_total": 18500,
+    "rating": 4.7,
+    "photo_url": "https://picsum.photos/seed/sochi-t1/800/500",
+    "description": "Пляж, набережная и автобусная экскурсия по побережью.",
+    "includes": ["Трансфер", "Гид", "2 ночи"],
+    "tags": ["sea", "family", "excursion"]
+  },
+  {
+    "id": "kzn-tour-1",
+    "name": "Казань: Кремль и Баумана",
+    "city": "Казань",
+    "duration_days": 2,
+    "price_total": 8900,
+    "rating": 4.4,
+    "photo_url": "https://picsum.photos/seed/kzn-t1/800/500",
+    "description": "Исторический центр и дегустация местной кухни.",
+    "includes": ["Гид", "Отель", "Обед"],
+    "tags": ["center", "excursion"]
+  }
+]
