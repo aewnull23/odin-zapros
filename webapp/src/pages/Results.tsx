@@ -67,7 +67,11 @@ export function Results({
         {filters.sort_by}
         {filters.required_tags.length ? `, теги: ${filters.required_tags.join(", ")}` : ""}
       </p>
-      {webInsight && <p className="ai-reason">{webInsight}</p>}
+      {webInsight && (
+        <p className="ai-reason" style={{ fontSize: "0.85rem" }}>
+          {webInsight}
+        </p>
+      )}
 
       <div className="filters-row" style={{ marginBottom: 12 }}>
         {(filters.product_type === "hotel" || filters.product_type === "both") && (
